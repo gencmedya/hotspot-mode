@@ -2,6 +2,12 @@
 
 *🌍 Bunu [İngilizce (English)](README.md) olarak oku.*
 
+![Hotspot Mode Banner](banner.png)
+
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Python](https://img.shields.io/badge/Made_with-Python_3-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Telefonunuzun internetini paylaştığınızda (hotspot) arka planda çalışan tüm güncelleme servislerini dinamik olarak bularak durduran, akıllı ve hafif bir Windows arka plan (system tray) Python uygulaması. Windows Update, Adobe, Google ve diğer sinsi indiricilerin mobil kotanızı sömürmesini engeller.
 
 ## ✨ Özellikler
