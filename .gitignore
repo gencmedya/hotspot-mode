@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+hotspot_config.json
+suspended_services.json
+__pycache__/
+*.pyc
