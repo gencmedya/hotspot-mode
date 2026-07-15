@@ -2,6 +2,12 @@
 
 *🌍 Read this in [Turkish (Türkçe)](README.tr.md).*
 
+![Hotspot Mode Banner](banner.png)
+
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Python](https://img.shields.io/badge/Made_with-Python_3-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A lightweight, intelligent Windows system tray utility built with Python that dynamically hunts down and suspends all background update services when you connect to a mobile hotspot. Save your mobile data plan from aggressive Windows updates, Adobe, Google, and other hidden background downloaders.
 
 ## ✨ Features
