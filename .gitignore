@@ -217,6 +217,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# ==========================================
+# Hotspot Mode - Local App Data & Cache
+# Prevent leaking personal Wi-Fi SSIDs and local service states
+# ==========================================
 hotspot_config.json
 suspended_services.json
 __pycache__/
